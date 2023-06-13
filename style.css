@@ -1,0 +1,56 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: green;
+  }
+  
+  .todo-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .todo-item label {
+    margin-left: 10px;
+  }
+  
+  .delete-button {
+    color: red;
+    cursor: pointer;
+    margin-left: 10px;
+  }
+  body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .container {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .box {
+    flex-basis: 30%;
+    background-color: #f4f4f4;
+    padding: 20px;
+    border-radius: 5px;
+  }
+  
+  .box-title {
+    text-align: center;
+    margin-bottom: 10px;
+  }
+  
+  .todo-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .todo-item label {
+    margin-left: 10px;
+  }
+  
+  .delete-button {
+    color: red;
+    cursor: pointer;
+    margin-left: 10px;
+  }
